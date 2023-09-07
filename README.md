@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## I'm Chola Kuboko, a Web Developer and Penetration Tester.
+## How To Reach Me:
+cholahkuboko@gmail.com
+My Tech Stack:
+
 <!--
 **DC-21/DC-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
