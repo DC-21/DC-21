@@ -59,6 +59,6 @@ A decentralized blockchain digital banking project with the following features:
 ## Contact
 Feel free to reach out to me for collaboration or just to connect!
 
-- **LinkedIn:** [Chola C. Kuboko](www.linkedin.com/in/chola-kuboko-3aa1a5288)
+- **LinkedIn:** [Chola C. Kuboko](https://www.linkedin.com/in/chola-kuboko-3aa1a5288)
 
 Thank you for visiting my GitHub profile!
