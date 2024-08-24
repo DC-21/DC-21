@@ -38,9 +38,13 @@ A decentralized blockchain digital banking project with the following features:
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 - ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=aspdotnet&logoColor=white)
+- ![.NET](https://img.shields.io/badge/-NET-5C2D91?logo=.net&logoColor=white)
+- ![.NET Framework](https://img.shields.io/badge/-NET%20Framework-5C2D91?logo=.net&logoColor=white)
 
 ### Backend Technologies:
 - ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
@@ -55,8 +59,6 @@ A decentralized blockchain digital banking project with the following features:
 ## Contact
 Feel free to reach out to me for collaboration or just to connect!
 
-- **Email:** chola.c.kuboko@example.com
-- **LinkedIn:** [Chola C. Kuboko](https://www.linkedin.com/in/cholackuboko)
-- **Twitter:** [@chola_c_kuboko](https://twitter.com/chola_c_kuboko)
+- **LinkedIn:** [Chola C. Kuboko](linkedin.com/in/chola-kuboko-3aa1a5288)
 
 Thank you for visiting my GitHub profile!
